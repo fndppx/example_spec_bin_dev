@@ -8,7 +8,7 @@
     "August Mueller": "gus@flyingmeat.com"
   },
   "source": {
-    "http": "http://192.168.50.150:20480/frameworks/FMDB/2.7.5/zip",
+    "http": "http://127.0.0.1:8081/frameworks/FMDB/2.7.5/zip",
     "type": "zip"
   },
   "requires_arc": true,
